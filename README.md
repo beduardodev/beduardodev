@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @beduardodev
 - 👀 I’m interested in learning to code.
-- 🌱 I’m currently learning HTML and CSS.
+- 🌱 I’m currently learning HTML and CSS, and working with Pascal.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me beduardo.dev@gmail.com
 
